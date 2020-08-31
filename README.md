@@ -15,6 +15,7 @@ I am Sandip. I build stuff at [@Pixeldust](github.com/pixeldust-in/)
  - [Vue Js](https://github.com/vuejs/vue/)
  - [TypeScript](https://github.com/microsoft/TypeScript)
  - [Django](github.com/django/django)
+ - [Strapi CMS](github.com/strapi/strapi)
  - [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 
 
