@@ -23,8 +23,8 @@ I am Sandip. I build stuff at [@Pixeldust](github.com/pixeldust-in/)
 <!--START_SECTION:waka-->
 
 ```text
-Python       11 hrs 43 mins  █████████████████▓░░░░░░░   70.96 %
-Other        2 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
+Python       11 hrs 6 mins   █████████████████▒░░░░░░░   68.95 %
+Other        2 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
 ```
 
 <!--END_SECTION:waka-->
