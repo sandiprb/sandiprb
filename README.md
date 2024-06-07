@@ -23,11 +23,11 @@ I am Sandip. I build stuff at [@Pixeldust](github.com/pixeldust-in/)
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js        3 hrs 13 mins   ██████████▓░░░░░░░░░░░░░░   43.29 %
-JavaScript    2 hrs 13 mins   ███████▒░░░░░░░░░░░░░░░░░   29.95 %
-Python        1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-HTML          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-JSON          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Vue.js        5 hrs 54 mins   ██████████████░░░░░░░░░░░   55.88 %
+JavaScript    2 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
+Python        1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+Other         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+TypeScript    14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
